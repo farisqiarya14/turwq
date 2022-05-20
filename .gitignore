@@ -10,7 +10,7 @@
 
 # GDB related
 **/.gdb_history
-
+nsu
 # macOS Specific ignores
 # General
 .DS_Store
